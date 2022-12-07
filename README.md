@@ -21,15 +21,14 @@ along with any images you want to use.
 
 Type 'make' to compile the program.
 
-./pixelate input.img : Displays the image in a resized window.
+  ./pixelate input.img : Displays the image in a resized window.
 
 Pressing the following keys will perform the following commands:
-'w' write the framebuffer to a file
-'i' to invert the colors of the image file
-'p' pixelates the image. The more times you press, the more pixelated
-the image becomes.
-'r' reloads the image back to its original form.
-'q' or esc to exit the program
+  'w' write the framebuffer to a file
+  'i' to invert the colors of the image file
+  'p' pixelates the image. The more times you press, the more pixelated the image becomes.
+  'r' reloads the image back to its original form.
+  'q' or esc to exit the program
 
 
 ## KNOWN PROBLEMS
