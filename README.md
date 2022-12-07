@@ -14,21 +14,31 @@ NOTE: This program currently works best with images that have dimensions
 that are 3^n px wide/tall. The sample images included meet this requirement.
 See FUTURE IMPLEMENTATIONS for more details.
 
+## EXAMPLES
+
+
 
 ## DEPLOYMENT INSTRUCTIONS
-First, ensure pixelate.cpp and the Makefile are in a directory together,
-along with any images you want to use.
+First, ensure pixelate.cpp and the Makefile are in a directory together, along with any images you want to use.
+
 
 Type 'make' to compile the program.
 
-  ./pixelate input.img : Displays the image in a resized window.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;./pixelate input.img : Displays the image in a resized window.
+  
 
 Pressing the following keys will perform the following commands:
-  'w' write the framebuffer to a file
-  'i' to invert the colors of the image file
-  'p' pixelates the image. The more times you press, the more pixelated the image becomes.
-  'r' reloads the image back to its original form.
-  'q' or esc to exit the program
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'w' write the framebuffer to a file
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'i' to invert the colors of the image file
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'p' pixelates the image. The more times you press, the more pixelated the image becomes.
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'r' reloads the image back to its original form.
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'q' or esc to exit the program
+  
 
 
 ## KNOWN PROBLEMS
