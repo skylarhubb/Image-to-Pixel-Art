@@ -16,6 +16,10 @@ See FUTURE IMPLEMENTATIONS for more details.
 
 ## EXAMPLES
 
+### mario_characters.png
+![](https://github.com/skylarhubb/Image-to-Pixel-Art/blob/main/examples/gifs/mario%20characters.gif)
+
+### me.png
 
 
 ## DEPLOYMENT INSTRUCTIONS
