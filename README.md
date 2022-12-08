@@ -20,7 +20,10 @@ See FUTURE IMPLEMENTATIONS for more details.
 ![](https://github.com/skylarhubb/Image-to-Pixel-Art/blob/main/examples/gifs/mario%20characters.gif)
 
 ### me.png
+![](https://github.com/skylarhubb/Image-to-Pixel-Art/blob/main/examples/gifs/me.gif)
 
+### tigerpaw.png (showcasing the color inversion as well!)
+![](https://github.com/skylarhubb/Image-to-Pixel-Art/blob/main/examples/gifs/tiger%20paw%20(inversion).gif)
 
 ## DEPLOYMENT INSTRUCTIONS
 First, ensure pixelate.cpp and the Makefile are in a directory together, along with any images you want to use.
